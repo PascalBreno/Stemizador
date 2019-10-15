@@ -1,3 +1,4 @@
+# Radicalização de palavras
 palavra = input('Insira a palavra: ')
 
 
