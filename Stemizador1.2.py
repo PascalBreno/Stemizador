@@ -118,7 +118,6 @@ tam = len(palavra)
 PluralReduction()
 wordEndA = True if (palavra[tam - 1] == 'a') else False
 if(wordEndA):
-    #calling feminine function to apply all those laws.
     feminineReduction()
 AugmentativeReduction()
 AdverbReduction()
